@@ -1,0 +1,7 @@
+.container {
+    height: 123px;
+    width: 123px;
+    border-radius: 70px;
+    overflow: hidden;
+    margin-top: 40px;
+}

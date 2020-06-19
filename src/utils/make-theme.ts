@@ -1,0 +1,1 @@
+export type MakeTheme<P extends string, T = string> = { [A in P]?: T };

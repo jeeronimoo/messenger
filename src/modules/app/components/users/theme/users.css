@@ -1,0 +1,19 @@
+.container {
+    min-width: 360px;
+    max-width: 360px;
+    height: 100%;
+    background-color: #242a31;
+}
+
+.flexContainer {
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+}
+
+.header {
+    height: 79px;
+    display: flex;
+    justify-content: center;
+    border-bottom: 1px solid #373C43;
+}

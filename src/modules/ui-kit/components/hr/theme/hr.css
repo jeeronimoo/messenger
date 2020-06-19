@@ -1,0 +1,6 @@
+.container {
+    margin: 10px;
+    height: 1.1px; /* fix retina troubles */
+    background-color: #e0e4ea;
+    opacity: 0.1;
+}

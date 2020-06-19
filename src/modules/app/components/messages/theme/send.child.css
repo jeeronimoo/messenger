@@ -1,0 +1,12 @@
+.container {
+    height: 38px;
+    width: 58px;
+    background-color: #626D7A;
+    border-radius: 50px;
+    margin: auto 26px auto auto;
+}
+
+.content {
+    width: 20px;
+    margin: 10px;
+}

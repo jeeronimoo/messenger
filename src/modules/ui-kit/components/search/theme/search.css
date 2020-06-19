@@ -1,0 +1,14 @@
+.container {
+    width: calc(100% - 84px);
+    height: 20px;
+    padding: 10px 10px 10px 30px;
+    font-size: 12px;
+    border-radius: 20px;
+    background-color: #363D45;
+    border: 1px solid #363D45;
+    color: #fff;
+}
+
+.container:focus {
+    outline-width: 0;
+}

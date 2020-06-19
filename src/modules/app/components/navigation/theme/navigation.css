@@ -1,0 +1,21 @@
+.container{
+    min-width: 80px;
+    max-width: 80px;
+    background-color: #1D232A;
+}
+
+.flexContainer {
+    display: flex;
+    flex-direction: column;
+    padding: 10px 0 10px 10px;
+}
+
+.topPlaceholder {
+    height: 105px;
+    border-right: 1px solid black;
+}
+
+.botPlaceholder {
+    border-right: 1px solid black;
+    height: calc(100% - 370px);
+}

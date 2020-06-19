@@ -1,0 +1,16 @@
+.container {
+    background-color: #1e242a;
+    padding: 14px 5px 13px 20px;
+    border-radius: 5px 0 0 5px;
+    height: 33px;
+    border-right: 1px solid black;
+}
+
+.active {
+    background-color: #222830;
+    padding: 13px 5px 12px 19px;
+    border-top: 1px solid black;
+    border-bottom: 1px solid black;
+    border-left: 1px solid black;
+    border-right: none;
+}
